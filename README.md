@@ -1,4 +1,4 @@
-# 🚀 Didintle Portfolio Website  
+🚀 Didintle Portfolio Website  
 
 A personal portfolio showcasing my web development and software engineering projects. This website highlights my skills, achievements, and ongoing projects while offering a glimpse into my journey as a developer.  
 

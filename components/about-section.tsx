@@ -15,7 +15,7 @@ const timelineEvents = [
     year: "2024",
     title: "ECOYouth Connect",
     description: "Founded a non-profit organization for environmental awareness for a school project",
-    icon: FaBriefcase,
+    icon: FaBriefcase
   },
   {
     year: "2021",
