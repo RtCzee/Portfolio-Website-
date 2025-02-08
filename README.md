@@ -94,9 +94,6 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📸 Screenshot
-
-![Project Preview](public/website preview.png)
 
 ## Note 
 removed eluceat website preview because file was too large
